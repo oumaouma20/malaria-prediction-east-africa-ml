@@ -82,7 +82,7 @@ Use the **Random Forest** model for deployment in East Africa to support real-ti
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/malaria-prediction-east-africa-ml.git
+[git clone https://github.com/oumaouma20/malaria-prediction-east-africa-ml.git)
 cd malaria-prediction-east-africa-ml
 
 2. Set Up the Environment
