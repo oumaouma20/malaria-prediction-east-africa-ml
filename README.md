@@ -84,12 +84,16 @@ Use the **Random Forest** model for deployment in East Africa to support real-ti
 ```bash
 git clone https://github.com/your-username/malaria-prediction-east-africa-ml.git
 cd malaria-prediction-east-africa-ml
+
 2. Set Up the Environment
 pip install -r requirements.txt
+
 3. Run the Jupyter Notebook
 jupyter notebook
+
 4. (Optional) Launch the Web App
 streamlit run app/app.py
+
 📧 Contact
 Author: Emmanuel Ouma
 📩 Email: emmanuelouma2000@gmail.com
