@@ -2,8 +2,10 @@ import streamlit as st
 import pandas as pd
 import joblib
 
-# Load trained model
+
+# Load the model
 model = joblib.load('random_forest_model.pkl')
+
 
 st.title("Malaria Incidence Predictor")
 
